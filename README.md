@@ -14,6 +14,7 @@
 * [Другие гисты] (https://gist.github.com/ItsEvil)
 
 ## Наработки на Stylus
+* [Init-файл] (https://gist.github.com/ItsEvil/d05e15e2905326c4a84cf398a09d86e1)
 * [Hexagon] (https://gist.github.com/ItsEvil/145897eacab360600d89)
 
 ## Ссылки
