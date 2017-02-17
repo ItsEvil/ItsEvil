@@ -15,3 +15,6 @@
 
 ## Наработки на Stylus
 * [Hexagon] (https://gist.github.com/ItsEvil/145897eacab360600d89)
+
+## Ссылки
+* [Сниппеты для Sublime] (https://github.com/ItsEvil/sublime-snippets)
