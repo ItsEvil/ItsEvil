@@ -1,5 +1,5 @@
 ## Самописные модули на JavaScript:
-* [Слайдер] (https://gist.github.com/ItsEvil/425d719c656eba9dea737aa81a3d5226) (https://jsfiddle.net/bxqexjp1/2/)
+* [Слайдер] (https://gist.github.com/ItsEvil/425d719c656eba9dea737aa81a3d5226) [[Пример]](https://jsfiddle.net/bxqexjp1/2/)
 
 ## Самописные модули на CoffeeScript:
 * [Слайдер] (https://gist.github.com/ItsEvil/c242aa447399b69cb1de)
