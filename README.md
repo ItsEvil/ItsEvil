@@ -2,6 +2,7 @@
 * [Слайдер] (https://gist.github.com/ItsEvil/425d719c656eba9dea737aa81a3d5226) | [Пример](https://jsfiddle.net/bxqexjp1/2/)
 * [Слайдер с масштабированием фоновой картинки] (https://gist.github.com/ItsEvil/2c8c573f0b16a01ea27b8ba4dafc6516) | [Пример](https://jsfiddle.net/8tfrwnyo/4/)
 * [Табы] (https://gist.github.com/ItsEvil/e3ca840e5ba3f16e0b075d78ecffee67) | [Пример](https://jsfiddle.net/f0nfnLe1/1/)
+* [Аккордеон] (https://gist.github.com/ItsEvil/ef4d6f66973ba5c36eb09dee91c58963)
 
 ## Node.js
 * [Загрузка одного файла на сервер] (https://gist.github.com/ItsEvil/943810b517b93a2c5c165e7e57127a12)
