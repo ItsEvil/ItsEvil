@@ -15,6 +15,7 @@
 
 ## Ссылки
 * [Сниппеты для Sublime] (https://github.com/ItsEvil/sublime-snippets)
+* [Другие гисты] (https://gist.github.com/ItsEvil)
 
 
 ## Самописные модули на CoffeeScript (устаревшее):
@@ -23,4 +24,3 @@
 * [Прокрутка к якорю] (https://gist.github.com/ItsEvil/308571848a22436c70c6)
 * [Эффект перелистывания страниц] (https://gist.github.com/ItsEvil/818e63c64b805825eefb)
 * [Валидация] (https://gist.github.com/ItsEvil/d7774f1151587567a90e)
-* [Другие гисты] (https://gist.github.com/ItsEvil)
