@@ -7,6 +7,7 @@
 
 ## Node.js
 * [Загрузка одного файла на сервер] (https://gist.github.com/ItsEvil/943810b517b93a2c5c165e7e57127a12)
+* [Отправка почты] (https://gist.github.com/ItsEvil/20d80999f5a57b60b15be7855d635b29)
 
 ## Наработки на Stylus
 * [Init-файл] (https://gist.github.com/ItsEvil/d05e15e2905326c4a84cf398a09d86e1)
