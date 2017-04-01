@@ -4,6 +4,7 @@
 * [Модальные окна](https://gist.github.com/ItsEvil/9100c3269b5937c827e077babca84ef7) | [Пример](https://jsfiddle.net/bu9pvrt8/2/)
 * [Табы](https://gist.github.com/ItsEvil/e3ca840e5ba3f16e0b075d78ecffee67) | [Пример](https://jsfiddle.net/f0nfnLe1/1/)
 * [Аккордеон](https://gist.github.com/ItsEvil/ef4d6f66973ba5c36eb09dee91c58963)
+* [Увеличение числа от текущего к заданному с анимацией](https://gist.github.com/ItsEvil/39b5169d097f57a92e2a829181df192c)
 
 ## Node.js
 * [Загрузка одного файла на сервер](https://gist.github.com/ItsEvil/943810b517b93a2c5c165e7e57127a12)
