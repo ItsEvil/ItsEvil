@@ -1,6 +1,6 @@
 ## Самописные модули на JavaScript:
 
-* [WYSIWYG](https://gist.github.com/ItsEvil/300f53663e2aa7c3573b97cd13506694) | [Пример](https://jsfiddle.net/ukjxhjv2/3/)
+* [WYSIWYG-редактор](https://gist.github.com/ItsEvil/300f53663e2aa7c3573b97cd13506694) | [Пример](https://jsfiddle.net/ukjxhjv2/3/)
 * [Слайдер](https://gist.github.com/ItsEvil/425d719c656eba9dea737aa81a3d5226) | [Пример](https://jsfiddle.net/bxqexjp1/2/)
 * [Слайдер с масштабированием фоновой картинки](https://gist.github.com/ItsEvil/2c8c573f0b16a01ea27b8ba4dafc6516) | [Пример](https://jsfiddle.net/8tfrwnyo/4/)
 * [Модальные окна](https://gist.github.com/ItsEvil/9100c3269b5937c827e077babca84ef7) | [Пример](https://jsfiddle.net/bu9pvrt8/2/)
